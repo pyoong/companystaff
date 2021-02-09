@@ -124,9 +124,9 @@ sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 spyder==4.2.1
 spyder-kernels==1.10.1
-tensorboard==1.4.1
+tensorboard==2.4.1
 tensorflow==1.4.1
-tensorflow-estimator==1.4.0
+tensorflow-estimator==2.4.0
 termcolor==1.1.0
 testpath==0.4.4
 textdistance==4.2.1
