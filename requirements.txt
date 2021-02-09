@@ -71,7 +71,6 @@ opt-einsum==3.3.0
 packaging==20.9
 pandas==1.0.1
 pandocfilters==1.4.3
-paramiko==2.7.2
 parso==0.7.0
 pathspec==0.7.0
 pexpect==4.8.0
