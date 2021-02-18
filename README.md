@@ -1,6 +1,6 @@
 Project to create a machine learning model to predict the attrition of the employees of a company. 
 Based on the given data, Hierarchical Clustering was carried out to identify the clusters.
-Four clusters were obtained and a deduction of the classes are made. The classes are as follows :- Class 0: permanent employee, Class 1: temporary employee, Class 2: predicted to leave the company, Class 3: contractual employee.
+Four clusters were obtained and the employee classes are deduced. The classes are as follows :- Class 0: permanent employee, Class 1: temporary employee, Class 2: predicted to leave the company, Class 3: contractual employee.
 After identifying the clusters, various machine learning models such as Logistic Regression, Random Forest, Support Vector Machine, Decision Tree were applied.
 Hyperparameter tuning is carried out to determine the optimal values for a given model.
 The best model is Support Vector Machine classifier which has the highest accuracy, precision and F1-score.
