@@ -1,4 +1,4 @@
-This project Attrition Analytics was carried out during internship with Innodatatics.
+This Attrition Analytics project was carried out during internship with Innodatatics.
 The project is to create a machine learning model to predict the attrition of the employees of a company. 
 Based on the given data, Hierarchical Clustering was carried out to identify the clusters.
 Four clusters were obtained and the employee classes are deduced. The classes are as follows :- Class 0: permanent employee, Class 1: temporary employee, Class 2: predicted to leave the company, Class 3: contractual employee.
