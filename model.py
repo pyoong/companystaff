@@ -650,8 +650,8 @@ from keras.wrappers.scikit_learn import KerasClassifier
 from sklearn.model_selection import GridSearchCV #to find best parameters
 
 attrdata1 = pd.read_csv("C:/Users/HP/Documents/My Documents 1/Cert in Data Science Course/Attrition Project/NS/Trial 8 KNC/Data/ModelFinal.csv")
-X = attrdata1.iloc[:, 1:].values  # same as X=np.array(attrdata1.iloc[:, 1:])
-y = attrdata1['Cluster'].values   # same as y=np.array(attrdata1.iloc[:, 0])
+X = attrdata1.iloc[:, 1:].values  
+y = attrdata1['Cluster'].values   
 
 #  Splitting the data into train and test data
 from sklearn.model_selection import train_test_split
